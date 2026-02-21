@@ -3,3 +3,11 @@ __pycache__/
 *.pyc
 .env
 *.wav
+storage/
+__pycache__/
+*.pyc
+.env
+*.wav
+*.m4a
+*.mp3
+.DS_Store
